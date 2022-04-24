@@ -55,7 +55,7 @@ you're working on that day.
 
 # Usage
 
-litee.nvim is a library which other plugins can important and use. 
+litee.nvim is a library which other plugins can import and use. 
 
 The library has it's own configuration and setup function which can be
 viewed in the `doc.txt`.
